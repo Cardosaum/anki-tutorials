@@ -65,6 +65,9 @@
 #+REVEAL: split
 [[./img/f2.png]]
 
+** Flash Cards
+[[./img/flash_card.png]]
+
 ** Métodos de revisão espaçada
 
 *** Sistema de Leitner
@@ -76,12 +79,66 @@
 *** Papel?
 [[./img/joel.png]]
 
+*** Softwares
+\\
+\\
+
+#+ATTR_REVEAL: :frag t
+  - Anki
+#+ATTR_REVEAL: :frag t
+  - Memrise
+#+ATTR_REVEAL: :frag t
+  - Mnemosyne
+#+ATTR_REVEAL: :frag t
+  - Quizlet
+#+ATTR_REVEAL: :frag t
+  - SuperMemo
+#+ATTR_REVEAL: :frag t
+  - +[[https://www.wikiwand.com/en/Spaced_repetition#/Software][muito outros...]]+
+
+* Por que o Anki?
+** Gratuito
+#+ATTR_REVEAL: :frag t
++Para quase todas as plataformas, né iOS...+
+[[./img/sad_iOS.png]]
+
+** Open Source
+*** Open o que?
+*** Código Livre
+#+ATTR_REVEAL: :frag t
+- [[https://github.com/ankitects/anki][Github]]
+** Extremamente versátil
+*** Muitos addons
+#+ATTR_REVEAL: :frag t
+- [[https://ankiweb.net/shared/addons/2.1][Lista de addons para a versão 2.1]]
+
+#+REVEAL: split
+[[./img/disso.png]]
+
+#+REVEAL: split
+[[./img/nisso1.png]]
+
+#+REVEAL: split
+[[./img/nisso2.png]]
+
+#+REVEAL: split
+[[./img/nisso3.png]]
+
+#+REVEAL: split
+[[./img/nisso4.png]]
+
+** Comunidade participativa
+#+ATTR_REVEAL: :frag t
+- [[https://www.reddit.com/r/Anki/][Reddit]]
+#+ATTR_REVEAL: :frag t
+- [[https://forums.ankiweb.net/][Fórum]]
+
+** Desenvolvimento ativo
+#+ATTR_REVEAL: :frag t
+- [[https://github.com/ankitects/anki/graphs/contributors][Linha do tempo]]
+
+
 * Como instalar o Anki
 
 [[https://apps.ankiweb.net/#download][Site oficial]]
 
-* Ebingaus
-* Curva de Esquecimento
-[[./img/forgetting_curve.png]]
-* Posso usar o Anki para o que?
-** Tudo
