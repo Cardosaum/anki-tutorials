@@ -1,0 +1,87 @@
+#+TITLE: Introdução ao Anki
+#+OPTIONS: author:nil date:nil timestamp:nil num:nil
+#+REVEAL_THEME: mcs
+#+REVEAL_TRANS: slide
+* O que é o Anki
+
+#+REVEAL: split
+[[./img/a1.png]]
+#+REVEAL: split
+[[./img/a2.png]]
+#+REVEAL: split
+[[./img/a3.png]]
+#+REVEAL: split
+[[./img/a4.png]]
+#+REVEAL: split
+[[./img/a5.png]]
+#+REVEAL: split
+[[./img/a6.png]]
+#+REVEAL: split
+[[./img/a7.png]]
+#+REVEAL: split
+[[./img/a8.png]]
+#+REVEAL: split
+[[./img/a9.png]]
+#+REVEAL: split
+[[./img/a10.png]]
+
+
+** Versátil
+*** Vestibular
+*** Concurso
+*** Faculdade
+*** Hobby
+*** Crianças
+*** Vendedores
+*** ...
+
+* Plataformas disponíveis
+
+#+ATTR_REVEAL: :frag t
+- Windows
+- MacOS
+- Linux
+
+#+ATTR_REVEAL: :frag t
+- Android
+- iOS
+- Web
+
+* Mas então,
+** Você disse...
+** Revisar?
+#+REVEAL: split
+[[./img/what.png]]
+
+#+REVEAL: split
+[[./img/forgetting_curve.png]]
+
+#+REVEAL: split
+[[./img/f0.png]]
+
+#+REVEAL: split
+[[./img/f1.png]]
+
+#+REVEAL: split
+[[./img/f2.png]]
+
+** Métodos de revisão espaçada
+
+*** Sistema de Leitner
+[[./img/leitner_system.png]]
+
+#+REVEAL: split
+[[./img/leitner_system.gif]]
+
+*** Papel?
+[[./img/joel.png]]
+
+* Como instalar o Anki
+
+[[https://apps.ankiweb.net/#download][Site oficial]]
+
+* Ebingaus
+* Curva de Esquecimento
+[[./img/forgetting_curve.png]]
+* Posso usar o Anki para o que?
+** Tudo
