@@ -1,6 +1,7 @@
 #+TITLE: Introdução ao Anki
-#+OPTIONS: author:nil date:nil timestamp:nil num:nil
+#+OPTIONS: author:nil date:nil timestamp:nil num:nil toc:1
 #+REVEAL_THEME: mcs
+#+REVEAL_TOC_SLIDE_TITLE: Sumário
 #+REVEAL_TRANS: slide
 * O que é o Anki
 
@@ -31,6 +32,7 @@
 *** Concurso
 *** Faculdade
 *** Hobby
+*** Versículos Bíblicos
 *** Crianças
 *** Vendedores
 *** ...
@@ -52,6 +54,9 @@
 ** Revisar?
 #+REVEAL: split
 [[./img/what.png]]
+
+#+REVEAL: split
+[[./img/forgetting_curve1.png]]
 
 #+REVEAL: split
 [[./img/forgetting_curve.png]]
@@ -127,6 +132,9 @@
 #+REVEAL: split
 [[./img/nisso4.png]]
 
+#+REVEAL: split
+[[./img/nisso_other.png]]
+
 ** Comunidade participativa
 #+ATTR_REVEAL: :frag t
 - [[https://www.reddit.com/r/Anki/][Reddit]]
@@ -136,9 +144,27 @@
 ** Desenvolvimento ativo
 #+ATTR_REVEAL: :frag t
 - [[https://github.com/ankitects/anki/graphs/contributors][Linha do tempo]]
+* Anki é um investimento
 
+** Bastante coisa para aprender no início
+#+REVEAL: split
+[[./img/learning_curve.png]]
+
+** É trabalhoso
+** Demanda tempo, muito!
+** vale a pena (?)
+#+REVEAL: split
+#+BEGIN_EXPORT html
+<iframe width="1932" height="820" src="https://www.youtube.com/embed/LDVnHb16qms" frameborder="0"></iframe>
+#+END_EXPORT
 
 * Como instalar o Anki
 
 [[https://apps.ankiweb.net/#download][Site oficial]]
 
+* Fontes
+
+** https://docs.ankiweb.net/
+
+** https://www.gwern.net/Spaced-repetition
+** https://www.cambridge.org/core/journals/cns-spectrums/article/play-it-again-the-master-psychopharmacology-program-as-an-example-of-interval-learning-in-bitesized-portions/E279E18C8133549F94CDEE74C4AF9310

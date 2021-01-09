@@ -1,0 +1,12 @@
+[1610065550] collection.py:__init__(): /home/matheus/git/Cardosaum/anki-tutorials/base/Usuário 1/collection.anki2, 2.1.35
+[1610065627] schedv2.py:getCard(): <anki.cards.Card object at 0x7f708c411190> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593805301113, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593805221886, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1610065630] sched.py:answerCard(): 
+[1610065630] schedv2.py:getCard(): <anki.cards.Card object at 0x7f70940e2a60> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593818154204, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593817992635, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1610065631] sched.py:answerCard(): 
+[1610065631] schedv2.py:getCard(): <anki.cards.Card object at 0x7f708c4840a0> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593804329347, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593804215703, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1610065632] sched.py:answerCard(): 
+[1610065632] schedv2.py:getCard(): <anki.cards.Card object at 0x7f708c48daf0> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593804398962, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593804329366, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1610065633] sched.py:answerCard(): 
+[1610065633] schedv2.py:getCard(): <anki.cards.Card object at 0x7f708c47ac10> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593804439303, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593804398965, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
+[1610065634] sched.py:answerCard(): 
+[1610065634] schedv2.py:getCard(): <anki.cards.Card object at 0x7f708c40bb80> {'data': '', 'did': 1610065616952, 'due': -187, 'factor': 2500, 'flags': 0, 'id': 1593805808687, 'ivl': 1, 'lapses': 0, 'left': 1001, 'mod': 1610065616, 'nid': 1593805804390, 'odid': 0, 'odue': 0, 'ord': 0, 'queue': 2, 'reps': 2, 'type': 2, 'usn': -1}
