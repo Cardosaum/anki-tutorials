@@ -5,6 +5,9 @@
 #+REVEAL_TRANS: slide
 * O que é o Anki
 
+** *Flash Cards*
+[[./img/flash_card.png]]
+
 #+REVEAL: split
 [[./img/a1.png]]
 #+REVEAL: split
@@ -70,11 +73,10 @@
 #+REVEAL: split
 [[./img/f2.png]]
 
-** Flash Cards
-[[./img/flash_card.png]]
+#+REVEAL: split
+[[./img/neuron.png]]
 
-** Métodos de revisão espaçada
-
+* Métodos de revisão espaçada
 *** Sistema de Leitner
 [[./img/leitner_system.png]]
 
@@ -152,19 +154,13 @@
 
 ** É trabalhoso
 ** Demanda tempo, muito!
+#+REVEAL: split
+[[./img/everyday.png]]
+
 ** vale a pena (?)
 #+REVEAL: split
 #+BEGIN_EXPORT html
 <iframe width="1932" height="820" src="https://www.youtube.com/embed/LDVnHb16qms" frameborder="0"></iframe>
 #+END_EXPORT
 
-* Como instalar o Anki
-
-[[https://apps.ankiweb.net/#download][Site oficial]]
-
-* Fontes
-
-** https://docs.ankiweb.net/
-
-** https://www.gwern.net/Spaced-repetition
-** https://www.cambridge.org/core/journals/cns-spectrums/article/play-it-again-the-master-psychopharmacology-program-as-an-example-of-interval-learning-in-bitesized-portions/E279E18C8133549F94CDEE74C4AF9310
+* Isso é tudo, pessoal!
