@@ -1,0 +1,21 @@
+#+TITLE: Nomenclatura & Uso Básico
+#+OPTIONS: author:nil date:nil timestamp:nil num:nil toc:1
+#+REVEAL_THEME: mcs
+#+REVEAL_TOC_SLIDE_TITLE: Sumário
+#+REVEAL_TRANS: slide
+* Nomenclatura
+** Cartões
+#+REVEAL: split
+[[./img/card.png]]
+** Baralhos
+#+REVEAL: split
+[[./img/deck_flash_cards.png]]
+#+REVEAL: split
+[[./img/baralhos.png]]
+** Campos & Notas
+#+REVEAL: split
+[[./img/scheme.svg]]
+* Como adicionar Cartões?
+** Cartões são modulares
+** Cartões no Anki são como "páginas na web"
+** Cartões podem ter etiquetas

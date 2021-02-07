@@ -1,0 +1,8 @@
+#+TITLE: Introdução ao Anki
+#+OPTIONS: author:nil date:nil timestamp:nil num:nil toc:nil
+#+REVEAL_THEME: mcs
+#+REVEAL_TOC_SLIDE_TITLE: Sumário
+#+REVEAL_TRANS: slide
+* Thumbnails
+** Instalação & Apresentação da Interface
+** Pedido de Feedback
